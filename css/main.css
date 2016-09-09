@@ -19,7 +19,7 @@
   font-family: roboto;
 }
 
-.loginmodal-container input[type=submit] {
+.loginmodal-container input[type=submit], .btn-modal {
   width: 100%;
   display: block;
   margin-bottom: 10px;
@@ -103,13 +103,17 @@
 
 .loginmodal-container a {
   text-decoration: none;
-  color: #666;
+  /*color: #666;
   font-weight: 400;
   text-align: center;
   display: inline-block;
   opacity: 0.6;
-  transition: opacity ease 0.5s;
+  transition: opacity ease 0.5s;*/
 } 
+
+.loginmodal-container .a-link{
+	color: #FFF;
+}
 
 .login-help{
   font-size: 12px;
