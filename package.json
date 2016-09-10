@@ -1,0 +1,31 @@
+{
+  "name": "comunicacao",
+  "version": "0.0.1",
+  "description": "Sistema para quem tem doenças degenerativas que dificulta a comunicação e tem problemas no tato",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FortalezaRN/ComunicacaoAlternativa.git"
+  },
+  "keywords": [
+    "mongodb",
+    "node.js",
+    "express",
+    "angular.js",
+    "css",
+    "html5",
+    "bootstrap"
+  ],
+  "author": "Leandro Fortaleza",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FortalezaRN/ComunicacaoAlternativa/issues"
+  },
+  "homepage": "https://github.com/FortalezaRN/ComunicacaoAlternativa#readme",
+  "dependencies": {
+    "mongoose": "^4.6.0"
+  }
+}
